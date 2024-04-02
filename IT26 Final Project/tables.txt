@@ -13,5 +13,10 @@ Tables for products:
 11. Others (cables, etc.)
 12. Laptops
 
+a. Customers
+b. Employees
+c. Invoices
+d. Orders
+
 
 
