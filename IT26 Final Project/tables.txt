@@ -1,0 +1,17 @@
+Tables for products:
+
+1. PC set
+2. Monitors
+3. Motherboards
+4. Processors
+5. Rams
+6. GPUs
+7. Storage
+8. Peripherals
+9. Routers
+10. Coolers
+11. Others (cables, etc.)
+12. Laptops
+
+
+
